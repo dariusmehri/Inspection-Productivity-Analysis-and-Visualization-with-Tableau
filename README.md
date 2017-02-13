@@ -18,6 +18,6 @@ Here are some visualizations created with Tableau that are used in the report:
 ![inspections unit comparison](https://cloud.githubusercontent.com/assets/11237613/22900640/06a5e596-f1fd-11e6-85e5-740b33bd26b6.png)
 
 
-
+![progress on targeting b complaint backlog](https://cloud.githubusercontent.com/assets/11237613/22900692/3da5ece4-f1fd-11e6-8838-adf06a0c7ff0.png)
 
 
