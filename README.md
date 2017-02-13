@@ -15,6 +15,9 @@ Here are the steps implemented:
 Here are some visualizations created with Tableau that are used in the report:
 
 
+![inspections unit comparison](https://cloud.githubusercontent.com/assets/11237613/22900640/06a5e596-f1fd-11e6-85e5-740b33bd26b6.png)
+
+
 
 
 
