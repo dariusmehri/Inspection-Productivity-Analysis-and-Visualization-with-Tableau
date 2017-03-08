@@ -1,7 +1,7 @@
 
 For this project, I am automating the Department of Building's monthy inspection productivity report with python and Tableau. 
 
-The objective of this project is to speed up the delivery time for the analyis, from a few days to a few hours.
+The objective of this project is to speed up the delivery time for the analysis, from a few days to a few hours.
 
 Here are the steps implemented:
 
