@@ -9,6 +9,8 @@ Here are the steps implemented:
 
 2. Write a program to wrangle, clean and merge the data using the Pandas python package.
 
+3. Establish a direct connection between Tableau and the Oracle database so that the data can be updated automatically.
+
 3. Create dashboards and visualizations in Tableau.
 
 
